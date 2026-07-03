@@ -1,4 +1,4 @@
-# 
+# Free AI Emotion Detection from Text scripts. Featuring image-recognition and edge-AI — optimized for maximum performance.
 
 
 
